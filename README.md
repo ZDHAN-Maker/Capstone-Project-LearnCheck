@@ -7,17 +7,17 @@ Proyek ini adalah fitur LearnCheck! yang terintegrasi ke dalam platform LMS Dico
 
 # Fitur-fitur utama proyek ini meliputi:
 
-Asesmen Formatif Otomatis: Sistem menghasilkan 3 soal pilihan ganda secara otomatis menggunakan AI dari backend.
+1. Asesmen Formatif Otomatis: Sistem menghasilkan 3 soal pilihan ganda secara otomatis menggunakan AI dari backend.
 
-Umpan Balik Instan: Siswa dapat melihat hint atau feedback untuk jawaban yang mereka pilih.
+2. Umpan Balik Instan: Siswa dapat melihat hint atau feedback untuk jawaban yang mereka pilih.
 
-Penyimpanan Progres: Progres dan jawaban siswa disimpan secara lokal di browser menggunakan user_id, memungkinkan siswa melanjutkan dari titik terakhir mereka.
+3. Penyimpanan Progres: Progres dan jawaban siswa disimpan secara lokal di browser menggunakan user_id, memungkinkan siswa melanjutkan dari titik terakhir mereka.
 
-Desain yang Seamless: Tampilan (UI) mengikuti desain Dicoding Classroom untuk pengalaman yang mulus.
+4. Desain yang Seamless: Tampilan (UI) mengikuti desain Dicoding Classroom untuk pengalaman yang mulus.
 
-Integrasi Backend: Seluruh data materi, preferensi pengguna, dan pembuatan soal diproses di sisi server menggunakan AI.
+5. Integrasi Backend: Seluruh data materi, preferensi pengguna, dan pembuatan soal diproses di sisi server menggunakan AI.
 
 # Teknologi yang Digunakan
-Frontend: React
 
-Styling: Tailwind CSS
+1. Frontend: React
+2. Styling: Tailwind CSS
